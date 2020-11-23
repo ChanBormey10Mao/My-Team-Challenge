@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/ChanBormey10Mao/My-Team-Challenge">
+    <a href="https://github.com/ChanBormey10Mao/My-Team-Challenge/tree/master">
       Solution
     </a>
     <span> | </span>
@@ -37,7 +37,7 @@
 
 ## Overview
 
-![screenshot](file:///Users/chanbormeymao/OneDrive%20-%20Swinburne%20University/Self-Projects/My%20Team%20Challenge/Public/my-team-page-master/demo.png)
+![screenshot](/Public/my-team-page-master/demo.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
