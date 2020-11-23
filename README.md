@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/ChanBormey10Mao/My-Team-Challenge">
       Solution
     </a>
     <span> | </span>
@@ -37,7 +37,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](file:///Users/chanbormeymao/OneDrive%20-%20Swinburne%20University/Self-Projects/My%20Team%20Challenge/Public/my-team-page-master/demo.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
